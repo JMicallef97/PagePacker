@@ -1,0 +1,8 @@
+C:\Users\Jacob\documents\visual studio 2010\Projects\PagePacker\PagePacker\bin\Debug\PagePacker.exe
+C:\Users\Jacob\documents\visual studio 2010\Projects\PagePacker\PagePacker\bin\Debug\PagePacker.pdb
+C:\Users\Jacob\documents\visual studio 2010\Projects\PagePacker\PagePacker\obj\x86\Debug\PagePacker.mainForm.resources
+C:\Users\Jacob\documents\visual studio 2010\Projects\PagePacker\PagePacker\obj\x86\Debug\PagePacker.Properties.Resources.resources
+C:\Users\Jacob\documents\visual studio 2010\Projects\PagePacker\PagePacker\obj\x86\Debug\PagePacker.csproj.GenerateResource.Cache
+C:\Users\Jacob\documents\visual studio 2010\Projects\PagePacker\PagePacker\obj\x86\Debug\PagePacker.exe
+C:\Users\Jacob\documents\visual studio 2010\Projects\PagePacker\PagePacker\obj\x86\Debug\PagePacker.pdb
+C:\Users\Jacob\documents\visual studio 2010\Projects\PagePacker\PagePacker\obj\x86\Debug\PagePacker.csprojResolveAssemblyReference.cache
