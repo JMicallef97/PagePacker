@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(mainForm));
             this.label1 = new System.Windows.Forms.Label();
             this.sourceFolderTB = new System.Windows.Forms.TextBox();
             this.selectSourceFolderBtn = new System.Windows.Forms.Button();
@@ -519,6 +520,7 @@
             this.Controls.Add(this.selectSourceFolderBtn);
             this.Controls.Add(this.sourceFolderTB);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimumSize = new System.Drawing.Size(824, 751);
             this.Name = "mainForm";
             this.Text = "PagePacker v1.0 by Jacob Micallef (Finalized 17 March 2026)";
